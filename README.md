@@ -24,4 +24,4 @@ Go to BepInEx/plugins/CustomNames and open the text file (name_config.txt)
 
 In this file the first number (by default 30) is the frame delay, this cannot go below 20 to prevent lag, 30 will be around 1/2 a second to 1/4 of a second
 The rest of the lines are the names that will be cycled through top-down, by default this spells out "I want to be" then "monke" (with alternating capitalization) - IGNORE THE -999
-quest patcher in (https://discord.gg/mykve86wW7)
+Discord (https://discord.gg/mykve86wW7)
