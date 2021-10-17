@@ -10,7 +10,7 @@ Fixed for the lastest update
 New files for the windows update. Fixed for the lastest update
 # Outdated 1.2.5
 Fixed for the lastest update
-# New mod
+# New mod 1.2.9
 Fixed for the lastest update
 
 
